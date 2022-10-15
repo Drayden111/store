@@ -773,3 +773,20 @@
     	"invert": true
   }
 }]
+{
+  "name": "Windows 93"
+  "icon": "https://th.bing.com/th/id/R.b40fef2de469e1ca656e8a7ca010df68?rik=Muw8yvhp%2f4LIUQ&pid=ImgRaw&r=0"
+  "type": "game", // game or app
+  "data": {
+    "type": "IFrame"
+    "url": "http://www.windows93.net"
+    "gallery": [
+      "",
+      "",
+      ""
+    ],
+    "desc": "Windows 93 latest simulator"
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality."
+    "invert": true
+  }
+}
